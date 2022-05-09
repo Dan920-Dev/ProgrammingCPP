@@ -17,7 +17,6 @@ int main() {
 
     // Hacemos una salida de datos con cout y mostramos el numero
     cout << "El numero ingresado es: " << num << endl; 
-    // Usamos el operador de suma para CONCATENAR
 
     return 0;
 }
