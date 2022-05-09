@@ -10,5 +10,32 @@ using namespace std;
 
 int main() {
 
+    // Variables a utilizar
+    float sueldo, salario;
+    int aniosTrabjados, anioInicio, anioActual = 2022;
+
+    // Pedimos datos al usuario
+    cout << "Ingrese el anio en el que empezo a trabajar " << endl;
+    cin >> anioInicio;
+
+    cout << "Ingrese el salario: " << endl;
+    cin >> salario;
+
+    // Realizamos calculos necesarios
+    aniosTrabjados = anioActual - anioInicio;
+
+    // Evaluamos la expresion
+    if (aniosTrabjados <5 ) 
+    {
+        sueldo = (salario * 0.30) + salario;
+    }else{
+        sueldo = (salario * 0.50) + salario;
+    }
+
+    // Mostramos datos al usuario
+    cout << "DATOS:" << endl;
+    cout << "Anios trabajados: " << aniosTrabjados << endl;
+    cout << "Sueldo: " << sueldo;
+    
     return 0;
 }
