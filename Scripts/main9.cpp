@@ -1,6 +1,5 @@
 /*
-Escribir un algoritmo que informe por pantalla el apellido y nombre junto a la nota de examen de cada 
-alumno y si la nota es mayor o igual a 6 entonces aprobó el curso si no reprobó el curso.
+Leer año de nacimiento, calcular la edad, mostrar los resultados si es mayor o menor de edad.
 */
 
 #include <iostream>
@@ -9,33 +8,25 @@ using namespace std;
 
 int main() {
 
-    // Variables a utilizar 
-    string nombre, apellido;
-    int nota;
+    // Variables a utilizar
+    int anioNac, anioActual = 2022, edad = 0;
 
     // Pedimos datos al usuario
-    cout << "Ingrese su nombre: " << endl;
-    cin >> nombre;
+    cout << "Ingrese su Anio de Nacimiento: " << endl;
+    cin >> anioNac;
 
-    cout << "Ingrese su apellido: " << endl;
-    cin >> apellido;
+    // Calculamos
+    edad = anioActual - anioNac;
 
-    cout << "Ingrese su nota: " << endl;
-    cin >> nota;
-
-
-    // Evaluamos la expresion y mostramos al usuario
-    if (nota >= 6)
+    // Evaluamos si es mayor o menor de edad
+    if (edad >= 18)
     {
-        cout << "DATOS: " << endl;
-        cout << "Nombre: " << nombre << " " << apellido << ", nota: " << nota << endl;
-        cout << "Su nota es mayor o igual a 6, ESTA APROBADO" << endl;
+        cout << "Usted es mayor de edad, su edad es: " << edad << endl;
     }else{
 
-        cout << "DATOS: " << endl;
-        cout << "Nombre: " << nombre << " " << apellido << ", nota: " << nota << endl;
-        cout << "Su nota es mayor o igual a 6, ESTA REPROBADO" << endl;
+        cout << "Usted es menor de edad, su edad es: " << edad <<endl;
     }
+    
 
     return 0;
 }
