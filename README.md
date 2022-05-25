@@ -26,4 +26,13 @@ Repositorio de Ejercicios en C++ - Fundamentos
 9. [Ejercicio 9](/Scripts/main15.cpp): Utilizar un contador iniciando en 2 hasta menor o igual a 10, obtener la sumatoria de los mismos. Imprimir el total.
 10. [Ejercicio 10](/Scripts/main16.cpp): Ingresar 10 valores por teclado y obtener la sumatoria de los mismos. Imprimir el total.
 11. [Ejercicio 11](/Scripts/main17.cpp): Ingresar 5 valores por teclado y obtener la sumatoria de los números pares. Imprimir el total.
-
+12. [Ejercicio 12](/Scripts/main18.cpp): Dados dos enteros que se ingresan desde teclado, indicar cuál de los dos es mayor.
+13. [Ejercicio 13](/Scripts/main19.cpp): Dados dos enteros que se ingresan desde teclado, indicar cuál de los dos es mayor. Su
+programa también debe contemplar la posibilidad de que sean iguales e indicarlo con unmensaje en pantalla.
+14. [Ejercicio 14](/Scripts/main20.cpp): Dados dos enteros, a y b, indicar si el primero es o no divisible entre el segundo.
+15. [Ejercicio 15](/Scripts/main21.cpp): Utilice la fórmula cuadrática para encontrar las raíces de un polinomio de la forma
+$ax^2+bx+c$. Recuerde que la fórmula es:
+    $$x = \frac {-b \pm \sqrt {b^2 - 4ac}}{2a}$$ 
+Su programa debe contemplar que si $b^2-4ac < 0$ entonces no hay solución en los reales y desplegar un mensaje indicándolo. 
+16. [Ejercicio 16](/Scripts/main22.cpp): Dado un valor entero 1 y 12 despliegue el mes correspondiente. Su programa debe poder
+detectar si el valor proporcionado no corresponde y advertir al usuario mediante un mensaje en pantalla. 
