@@ -11,7 +11,7 @@ using namespace std;
 int main() {
 
     float precio = 0, result = 0;
-    int cantProduc = 0;
+    int cantProduc = 0, cont = 0;
     
     cout << "Ingrese la cantidad de productos a pagar: " << endl;
     cin >> cantProduc;
@@ -28,6 +28,24 @@ int main() {
 
     cout << "El total a pagar es: $" << result << endl;
     
+
+    // Usando while
+
+    cout << "*** usando while ***" << endl;
+    result = 0;
+
+    while (cont < cantProduc)
+    {
+        cout << "Ingrese el precio del producto " << cont + 1 << endl;
+        cin >> precio;
+
+        result = result + precio; // result guarda el precio de cada iteracion mas el precio anterior
+
+        precio = 0; 
+        cont++;
+    }
+
+    cout << "El total a pagar es: $" << result << endl;
 
     return 0;
 }
