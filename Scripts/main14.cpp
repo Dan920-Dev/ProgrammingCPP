@@ -10,5 +10,10 @@ using namespace std;
 
 int main() {
 
+    float precio = 0;
+    int cantProduc = 0;
+    
+    
+
     return 0;
 }
