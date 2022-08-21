@@ -14,7 +14,12 @@ Repositorio de Ejercicios en C++ - Fundamentos
 8. [Arreglos o Vectores](/Scripts/main24.cpp)
 9. [Matrices](/Scripts//main25.cpp)
 
-## Temas - Estructuras Dinamicas
+## Estructuras Dinamicas
+
+### Sorting Algorithms
+1. [Insertion Sort](/Scripts/main26.cpp) 
+2. [Bubble Sort](/Scripts/main27.cpp) 
+3. [Selection Sort](/Scripts/main28.cpp) 
 
 ## Ejercicios
 1. [Ejercicio 1](/Scripts/main7.cpp): Conversor de metros a cm.
