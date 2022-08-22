@@ -1,9 +1,10 @@
-# FundaProgra
+# Programming in C++
 
-Repositorio de Ejercicios en C++ - Fundamentos
+Repositorio de Ejemplos y Ejercicios en C++ 
 
 
-## Temas - Fundamentos
+## Fundamentos
+
 1. [Entrada y Salida de datos](/Scripts/main1.cpp) 
 2. [Variables](/Scripts/main2)
 3. [Operadores](/Scripts/main3.cpp)
