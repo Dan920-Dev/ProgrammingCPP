@@ -17,9 +17,9 @@ Repositorio de Ejercicios en C++ - Fundamentos
 ## Estructuras Dinamicas
 
 ### Sorting Algorithms
-1. [Insertion Sort](/Scripts/main26.cpp) 
-2. [Bubble Sort](/Scripts/main27.cpp) 
-3. [Selection Sort](/Scripts/main28.cpp) 
+1. [Insertion Sort](/Scripts/main27.cpp) 
+2. [Bubble Sort](/Scripts/main28.cpp) 
+3. [Selection Sort](/Scripts/main26.cpp) 
 
 ## Ejercicios
 1. [Ejercicio 1](/Scripts/main7.cpp): Conversor de metros a cm.
