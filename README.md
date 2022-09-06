@@ -15,9 +15,10 @@ Repositorio de Ejemplos y Ejercicios en C++
 8. [Arreglos o Vectores](/Scripts/main24.cpp)
 9. [Matrices](/Scripts//main25.cpp)
 
-## Estructuras Dinamicas
 
-### Sorting Algorithms
+## Sorting Algorithms
 1. [Insertion Sort](/Scripts/main27.cpp) 
 2. [Bubble Sort](/Scripts/main28.cpp) 
 3. [Selection Sort](/Scripts/main26.cpp) 
+
+## Estructuras Dinamicas

@@ -19,10 +19,13 @@ Suponiendo que el valor ingresado es 3:
 5. [Ejercicio 5](/Scripts/main33.cpp): Invierta las cifras de un número entro que se ingresa desde teclado. La función retorna el nuevo número calculado. Por ejemplo, si se ingresa desde teclado el entero 251, la función debe retornar 152.
 
 6. [Ejercicio 6](/Scripts/main34.cpp): La función recibe un número entero como argumento y debe devolver las tablas de multiplicar, del 1 al 10, de dicho número.
-                                    
-                                    
-                                    
-                                    
-                                    
 
-                                
+7. [Ejercicio 7](/Scripts/main35.cpp):Dados dos números enteros llamados mayor y menor, obtener el máximo común divisor (mcd) de ambos por el método de Euclides. Para resolver este problema se procede así:
+a) se realiza la división entera del mayor entre el menor.
+b) si el residuo es cero, el mcd.
+está en la variable llamada menor, despliega el resultado y termina el programa.
+c) pero si el residuo no es cero, el valor de menor pasa a mayor y el valor de residuo pasa a
+menor.
+d) repetir el paso a.
+
+8. [Ejercicio 8](/Scripts/main36.cpp): Calcule la raíz cuadrada de un número entero, n, por medio de la cálculos repetidos de la expresión: $$\ r = (n/r + r)/2$$
