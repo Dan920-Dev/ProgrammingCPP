@@ -22,5 +22,3 @@ Repositorio de Ejemplos y Ejercicios en C++
 3. [Selection Sort](/Scripts/main26.cpp) 
 
 ## Estructuras Dinamicas
-
-1. [Struct](/Scripts/main27.cpp) 
