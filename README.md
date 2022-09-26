@@ -22,3 +22,7 @@ Repositorio de Ejemplos y Ejercicios en C++
 3. [Selection Sort](/Scripts/main26.cpp) 
 
 ## Estructuras Dinamicas
+
+1. [Struct and pointer](/Scripts/main35.cpp)
+2. [Stack](/Scripts/main36.cpp) 
+3. [Queue](/Scripts/main37.cpp) 
