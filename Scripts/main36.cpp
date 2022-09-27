@@ -101,7 +101,7 @@ void deleteElement(Node *&myStack){ // Pop
 }
 
 void showStack(Node *&myStack){ // Mostramos todos los datos de la pila
-    struct Node *temp = myStack;
+    
     struct Node *pilaTemp = myStack; // Utilizamos una pila temporal para no modificar la Original
     cout << "Los datos de la pila son: ";
     while (pilaTemp != NULL) // Verificamos que no este vacia
