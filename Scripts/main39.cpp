@@ -33,19 +33,18 @@ int main() {
 }
 
 void mostrarPila(){
+
     struct Nodo *aux = miPila;
     cout << "Mostrando datos" << endl;
 
-    while (miPila != NULL)
-    {
-        
+    while (aux != NULL)
+    { 
         cout << "Nombre: " << aux -> nombre << endl;
         cout << "ID: " << aux -> id << endl;
         aux = aux -> Siguiente;
         cout << endl;
     }
-
-    
+ 
 }
 
 void agregarOrden(int datos){
