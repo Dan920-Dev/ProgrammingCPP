@@ -25,4 +25,4 @@ Repositorio de Ejemplos y Ejercicios en C++
 
 1. [Struct and pointer](/Scripts/main35.cpp)
 2. [Stack](/Scripts/main36.cpp) 
-3. [Queue](/Scripts/main3.cpp) 
+3. [Queue](/Scripts/main37.cpp) 
