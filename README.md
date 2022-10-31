@@ -20,9 +20,9 @@ Repositorio de Ejemplos y Ejercicios en C++
 1. [Insertion Sort](/Scripts/main27.cpp) 
 2. [Bubble Sort](/Scripts/main28.cpp) 
 3. [Selection Sort](/Scripts/main26.cpp) 
-4. [Merge Sort](/Scripts/main41.cpp)
-5. [Heap Sort](/Scripts/main42.cpp)
-6. [Quick Sort](/Scripts/main43.cpp)
+4. [Merge Sort](/Scripts/main41.cpp) && [Merge Sort highest to lowest](/Scripts/main46.cpp)
+5. [Heap Sort](/Scripts/main42.cpp) && [Heap Sort highest to lowest](/Scripts/main47.cpp)
+6. [Quick Sort](/Scripts/main43.cpp) && [Quick Sort highest to lowest](/Scripts/main48.cpp)
 
 ## Estructuras Dinamicas
 
