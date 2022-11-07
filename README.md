@@ -32,3 +32,4 @@ Repositorio de Ejemplos y Ejercicios en C++
 4. [Simple List](/Scripts/main40.cpp)
 5. [Double List](/Scripts/main44.cpp)
 6. [Circle List](/Scripts/main45.cpp)
+7. [Binary tree](/Scripts/main49.cpp)

@@ -27,19 +27,20 @@ void merge(int* A, int p, int q, int r){
     i = j = 0;
     for(int k = p; k <= r; k++)
         if( L[i] < R[j] ){
-            A[k] = R[i]; // Solo sera el caso opuesto
-            i++;
-        }else{
-            A[k] = L[j];
+            A[k] = R[j]; 
             j++;
+        }else{
+            A[k] = L[i];
+            i++;
         }
 }
 
 void merge_sort(int* A, int p, int r){  // ordenamiento
     if( p < r ){
         int q = floor( (p+r)/2 );
-        merge_sort(A, p, q);
+
         merge_sort(A, q+1, r);
+        merge_sort(A, p, q);
         merge(A, p, q, r);
     }
 }
