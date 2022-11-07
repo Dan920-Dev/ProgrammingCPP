@@ -24,7 +24,7 @@ Repositorio de Ejemplos y Ejercicios en C++
 5. [Heap Sort](/Scripts/main42.cpp) && [Heap Sort highest to lowest](/Scripts/main47.cpp)
 6. [Quick Sort](/Scripts/main43.cpp) && [Quick Sort highest to lowest](/Scripts/main48.cpp)
 
-## Estructuras Dinamicas
+## Estructuras de Datos
 
 1. [Struct and pointer](/Scripts/main35.cpp)
 2. [Stack](/Scripts/main36.cpp) 
@@ -33,3 +33,4 @@ Repositorio de Ejemplos y Ejercicios en C++
 5. [Double List](/Scripts/main44.cpp)
 6. [Circle List](/Scripts/main45.cpp)
 7. [Binary tree](/Scripts/main49.cpp)
+
