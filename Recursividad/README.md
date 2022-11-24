@@ -1,5 +1,7 @@
 # Programming in C++
 
+Dar click al titulo del ejercicio para acceder al script de la solucion 😃.
+
 ## Ejemplos de recursividad.
 
 1. [Ejercicio 1](/Scripts/main29.cpp): Elabore la función ida_y_vuelta( ), la cual, dado un número entero que se obtiene desdeteclado, realiza un conteo como el siguiente:

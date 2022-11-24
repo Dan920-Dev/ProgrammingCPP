@@ -1,6 +1,6 @@
 # Programming in C++
 
-Repositorio de Ejemplos y Ejercicios en C++ 
+Repositorio de Ejemplos y Ejercicios en C++, Dar click al titulo del ejercicio para acceder al script de la solucion 😃. 
 
 
 ## Fundamentos

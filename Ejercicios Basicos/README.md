@@ -1,5 +1,7 @@
 ## Ejercicios sobre fundamentos
 
+Dar click al titulo del ejercicio para acceder al script de la solucion 😃.
+
 1. [Ejercicio 1](/Scripts/main7.cpp): Conversor de metros a cm.
 2. [Ejercicio 2](/Scripts/main8.cpp): Calculadora de Area de un triangulo.
 3. [Ejercicio 3](/Scripts/main9.cpp): Leer año de nacimiento, calcular la edad, mostrar los resultados si es mayor o menor de edad.
