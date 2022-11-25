@@ -5,7 +5,8 @@ using namespace std;
 
 // Se recibe el arreglo y el numero de datos
 int max_1d_range_sum(int* A, int n){
-    int M[n+1], S = 0; // Se declara un arreglo M con un size n+1
+    int M[n+1], S = 0; // Se declara un arreglo M con un size n+1 donde sera la respuesta 
+                      // hasta i-1. y S es igual a la sumatoria hasta i-1
 
     M[0] = 0; // La posicion 0 en ese arreglo sera 0
     // Para empezar a poblar con los datos recibidos empezamos desde 1 hasta llegar a n

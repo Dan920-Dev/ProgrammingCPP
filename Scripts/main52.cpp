@@ -23,7 +23,7 @@ int knapsack(int K, int* V, int* W, int n){
 }
 
 int main(void){
-    int n = 3, K = 50;
+    int n = 3, K = 50; // n: total de datos, K: peso
     int V[3] = {60,100,120}, W[3] = {10,20,30};
 
     cout << "El valor máximo que se puede obtener es: " << knapsack(K, V, W, n) << ".\n";

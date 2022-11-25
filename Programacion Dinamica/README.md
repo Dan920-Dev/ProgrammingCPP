@@ -18,3 +18,7 @@ Dar click al titulo del ejercicio para acceder al script de la solucion 😃.
 problema usando programación dinámica. Mostrar la ejecución sobre el ejemplo
 anterior. Suponer que disponemos de una operación Prefijo(cad1, cad2) : bool, para
 conocer si una palabra es prefijo de otra. 
+
+8. [Ejercicio 8](/Scripts/main58.cpp): The jackpot.
+
+8. [Ejercicio 9](/Scripts/main59.cpp): Jill Rides Again.
