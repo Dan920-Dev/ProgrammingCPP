@@ -22,3 +22,5 @@ conocer si una palabra es prefijo de otra.
 8. [Ejercicio 8](/Scripts/main58.cpp): The jackpot.
 
 8. [Ejercicio 9](/Scripts/main59.cpp): Jill Rides Again.
+
+9. [Ejercicio 10](/Scripts/main60.cpp): SuperSale.
