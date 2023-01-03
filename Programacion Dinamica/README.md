@@ -8,7 +8,7 @@ Dar click al titulo del ejercicio para acceder al script de la solucion 😃.
 
 3. [Ejer4cicio 3](/Scripts/main52.cpp): 0/1 KNAPSACK PROBLEM
 
-4. [Ejercicio 4](/Scripts/main53.cpp): LCS
+4. [Ejercicio 4](/Scripts/main53.cpp): LCS - Longest Common Sequence
 
 5. [Ejercicio 5](/Scripts/main55.cpp): SASHA AND HIS TRIP - Solucion a el problema del sasha y su viaje.
 
@@ -24,3 +24,4 @@ conocer si una palabra es prefijo de otra.
 8. [Ejercicio 9](/Scripts/main59.cpp): Jill Rides Again.
 
 9. [Ejercicio 10](/Scripts/main60.cpp): SuperSale.
+
