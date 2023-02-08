@@ -23,3 +23,11 @@ $ax^2+bx+c$. Recuerde que la fórmula es:
 Su programa debe contemplar que si $b^2-4ac < 0$ entonces no hay solución en los reales y desplegar un mensaje indicándolo. 
 16. [Ejercicio 16](/Scripts/main22.cpp): Dado un valor entero 1 y 12 despliegue el mes correspondiente. Su programa debe poder
 detectar si el valor proporcionado no corresponde y advertir al usuario mediante un mensaje en pantalla.
+17. [Ejercicio 17](/Scripts/main63.cpp): Crear un programa en c++ que guarde los registros de productos de una tienda que se dedica  a la venta de laptops con los siguientes datos:
+
+- Id (se debera agregar el id de forma que el indice del arreglo sea su ID)
+- Nombre de productos
+- Precio
+- Marca
+
+Luego se debera mostrar todos los productos con la informacion correspondiente.
