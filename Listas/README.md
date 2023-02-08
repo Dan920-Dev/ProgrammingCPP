@@ -1,4 +1,4 @@
 Dar click al titulo del ejercicio para acceder al script de la solucion 😃.
 
-1. [Ejercicio 1](/Scripts/main38.cpp): Realice un programa en el que se puedan almacenar (utilizando pilas) los registros de las cajas de pizza que son ordenadas en un restaurante, cada registro debe de incluir: nombre de la pizza y precio.
-Debe agregar dos o más pizzas a la pila (pueden agregarlas desde el código)
+1. [Ejercicio 1](/Scripts/main66.cpp): Crear un programa en c++ que permita almacenar datos enteros aleatorios en una lista simple, el programa debe permitir insertar, mostrar todos los datos, invertir cada número almacenado, Mostrar el mayor y menor número almacenado y convertir los números que correspondan a  minúsculas según tabla ASCII.
+ 
